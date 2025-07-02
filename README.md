@@ -14,10 +14,10 @@ Power BI – for dashboard design and interactive visualization
 
 Python (Jupyter Notebook) – for data preprocessing and exploration
 
-**Libraries**: Pandas, NumPy, Seaborn, Matplotlib, WordCloud
+**Libraries:** Pandas, NumPy, Seaborn, Matplotlib, WordCloud
 
-**📊 Key Features:
-**Heatmaps of high-risk states and cities
+**📊 Key Features:**
+Heatmaps of high-risk states and cities
 
 Year-wise trend analysis of terror activities
 
@@ -27,14 +27,14 @@ Word clouds representing frequently targeted groups or keywords
 
 Drill-throughs for state-level deep dives
 
-**💡 Use Cases:
-**Homeland security planning and regional threat assessment
+**💡 Use Cases:**
+Homeland security planning and regional threat assessment
 
 Academic research in terrorism studies
 
 Data storytelling and visual analytics practice
 
-**📁 Dataset Source:
-**South Asia Terrorism Portal (https://www.satp.org/)
+**📁 Dataset Source:**
+South Asia Terrorism Portal (https://www.satp.org/)
 
 Public dataset with curated Indian terrorism incidents
